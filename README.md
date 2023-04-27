@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VardhanKirti
-- 👀 I’m interested in programming languages like C++ , Java etc
+- 👀 I’m interested in programming languages like C++ , Java and have very keen interest in web development etc
 - 🌱 I’m currently learning C++ ,WEB development and projects associated with them
 - ❤️ Tech enthusiast 
 - 📫 How to reach me - vardhankirti816@gmail.com
