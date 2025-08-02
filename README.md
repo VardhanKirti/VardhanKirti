@@ -45,9 +45,6 @@ I love combining real-world problems and AI — whether it's predicting emission
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VardhanKirti&show_icons=true&theme=radical" alt="Kirti's GitHub stats"/>
-</p>
 
 
 <!---
